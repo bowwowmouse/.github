@@ -25,4 +25,4 @@
   </table>
 
 > **Projects**
-- <a href="https://github.com/bowwowmouse/untitled-game">**untitled-game**</a>  `private`
+- <a href="https://github.com/bowwowmouse/untitled-game">**untitled-game**</a> ---- <a href="https://github.com/orgs/bowwowmouse/projects/2"><b> project </b></a>
